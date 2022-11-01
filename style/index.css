@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://humanidades.com/wp-content/uploads/2018/10/matematicas-e1581735212109.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+header{
+    background-color: black;
+    margin: 0 -7px;
+    text-align: center;
+    color: white;
+}
+aside{
+    background-color: black;
+    width: 20%;
+    float: right;
+}
+#figu{
+    float: right;
+}
